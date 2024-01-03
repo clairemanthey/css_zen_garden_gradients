@@ -30,7 +30,7 @@ I used this as a challenge to get more familiar with gradients and how they can 
 ## Screenshots
 
 Beginning of web page
-![My Image](images/top_sm.png) ![My Image](images/top_med.png) ![My Image](images/top_lrg.png)
+![My Image](images/beg_sm.png) ![My Image](images/beg_med.png) ![My Image](images/beg_lrg.png)
 
 End of web page
 
