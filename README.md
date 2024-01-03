@@ -2,11 +2,17 @@
 
 ## Table of Contents
 [Introduction](#Introduction)
+
 [Motivation](#Motivation)
+
 [Design](#Design)
+
 [Screenshots](#Screenshots)
+
 [HTML Changes](#HTML-Changes)
+
 [What I Learned](#What-I-Learned)
+
 [Acknowledgements](#Acknowledgements)
 
 Introduction
