@@ -38,10 +38,21 @@ The biggest challenge was creating contrast on the largest screen size. When the
 
 ## Screenshots
 
-Beginning of web page
+Beginning of web page <br />
+
 ![My Image](images/beg_sm.png) ![My Image](images/beg_med.png) ![My Image](images/beg_lrg.png)
 
-End of web page
+
+Main Content Small Screen Sizes <br />
+
+![My Image](images/main_content_sm_1.png) ![My Image](images/main_content_sm_2.png)
+
+Main Content Medium and Large Screen Sizes <br />
+
+![My Image](images/main_content_medlrg_1.png) ![My Image](images/main_content_medlrg_2.png)
+
+
+End of web page <br />
 
 ![My Image](images/bottom_sm.png) ![My Image](images/bottom_med.png) ![My Image](images/bottom_lrg.png)
 
