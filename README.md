@@ -57,8 +57,8 @@ End of web page <br />
 ![My Image](images/bottom_sm.png) ![My Image](images/bottom_med.png) ![My Image](images/bottom_lrg.png)
 
 ## Built With
-HTML
-CSS
+- HTML
+- CSS
 
 ## HTML Changes
 
