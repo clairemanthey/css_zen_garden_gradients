@@ -174,19 +174,21 @@ header h2 {
 
 /*--section styles--*/
 section article{
-	padding: 0 15px 25px 15px;
+	padding: 0 15px 25px 0;
 }
 
 article h3{
 	font-family: var(--font-heading);
 	font-weight: 400;
 	font-size: var(--fs-600);
+	text-indent: 10px;
 }
 
 article p{
 	padding: 5px;
 	line-height: 1.7;
 	font: var(--fs-200) var(--font-main);
+	padding-left: 10px;
 }
 
 article p:nth-child(2){
