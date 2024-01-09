@@ -1,5 +1,6 @@
-CSS Zen Garden 
-# My Take on CSS Zen Garden
+# CSS Zen Garden 
+
+## My Take on CSS Zen Garden
 
 ## Table of Contents
 [Introduction](#Introduction)
@@ -24,7 +25,7 @@ CSS Zen Garden is a place on the web to show the power of CSS. It shows can CSS 
 
 ## Motivation
 
-I was motivated to create a design to challenge my own CSS skills and creativity to create something new. Since this project was created several years ago CSS has changed, I took this challenge as a way to practice my design skills for as many browsers and versions of browsers as possible. Also designing fall backs for elements that are not widely supported.
+I was motivated to create a design to challenge my own CSS skills and creativity to create something new. Since this project was created several years ago CSS has changed, I took this challenge as a way to practice my design skills for as many browsers and versions of browsers as possible. 
 
 ## Design
 
@@ -63,6 +64,8 @@ End of web page <br />
 ## HTML Changes
 
 One constraint is not to change the HTML of this project, one of my goals was to make this site accessible. Given when this project was created, practices around accessibility and designing for accessibility have expanded to make websites accessible to all users. The only changes I made to the HTML was to make the site more accessible for users. I removed the header and footer elements from the div they were nested in to create landmarks for users that use screen readers.
+
+Another change I made was to use semantic HTML. I looked through the HTML file, seeing where there was a div tag used if a semantic HTML element would fit, and then I changed it. I used elements such as section and article. I also created a main element with the main content for the web page. It helps define the semantic structure of the web page, making it more accessible for users. 
 
 ## What I Learned
 Part of the challenge is not to alter the HTML. That means not just adding a class or id to a tag. I used a variety of selector combinations including child, sibling, as well as using CSS to create pseudo elements. I was able to practice using different combinations of CSS selectors to select one or more child elements while not selecting other similar  child elements to apply styles to.
